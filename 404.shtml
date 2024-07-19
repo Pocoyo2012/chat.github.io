@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<html lang=es>
+<head>
+<meta charset="utf-8">
+<title></title>
+<meta name="robots" content="all">
+<link rel="shortcut icon" href="../favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-site-verification" content="7Rf6ETlAUS8lb_5QM_Ds6oxFgVthOAfLf2iVi0muPxw" />
+<script src="../js/jquery.js"></script>
+<link href="../bootstrap-3.3.5-dist/css/bootstrap.min.css" rel="stylesheet" media="screen">
+<script src="../bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+<link href="../font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="../css/estilo.css" rel="stylesheet" type="text/css" media="screen" />
+
+       </head>
+<body> 
+<nav class="navbar navbar-default">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="https://www.canalgratis.chatear.red/"><img alt="logo salas de chat gratis" src="/images/logo.webp" style="margin-top:-15px;" height="50"/></a>
+</div>
+ 
+ 
+<div class="collapse navbar-collapse navbar-ex1-collapse">
+<ul class="nav navbar-nav" style="background-color: #000;">
+<li><a href="https://www.<?php echo $web ?>"><i class="fa fa-home fa-fw" aria-hidden="true"></i> Inicio</a>
+</li>
+<li><a href="https://www.canalgratis.chatear.red/paises.php"><span class="glyphicon glyphicon-globe"></span> Paises</a>
+</li>
+ <li><a href="https://www.canalgratis.chatear.red/amistad.php"><i class="fa fa-smile-o fa-fw"></i> Amistad</a>
+</li>
+<li><a href="https://www.canalgratis.chatear.red/edades.php"><i class="fa fa-male fa-fw"></i> Edades</a>
+</li>
+<li><a href="https://www.canalgratis.chatear.red/contactos.php"><i class="fa fa-heart fa-fw"></i> Contactos</a>
+</li>
+<li class="dropdown"><a href="" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-star"></i> Secciones <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="https://www.canalgratis.chatear.red/horoscopos.php"><i class="fa fa-bullhorn"></i> Horoscopos</a></li>
+<li><a href="https://www.canalgratis.chatear.red/testdelamor.php"><i class="fa fa-bullhorn"></i> Test del Amor</a></li>
+</ul>
+</li>
+</ul> 
+</div>
+</div>
+</nav>
+<div id="content">
+<div class="container">
+<div class="row"> 
+<div class="col-md-10">
+<img alt="Error 404" src="https://www.canalgratis.chatear.red/img/chat/404.webp" class="pull-left img-thumbnail" style="margin-right:5px;">
+<h1 style="margin-top:-1px;">Error 404</h1>
+<p>No se encuentra la ruta</p>
+<ol class="breadcrumb" style="margin-top:15px;">
+<li><i class="fa fa-home"></i> <a href="https://www.canalgratis.chatear.red">canalgratis.chatear.red</a></li><li class="active">Error 404</li>
+</ol>
+<p style="font-size:14px"><i class="fa fa-info-circle"></i> Para acceder al chat puedes hacerlo desde aquí.</p><div class="row"><div class="col-md-8 col-md-offset-2">
+<div class="panel panel-primary" style="box-shadow: 0 8px 6px -6px black;">
+<div class="panel-heading">
+<h2 class="panel-title"><img alt="Chat Error 404" src="https://www.canalgratis.chatear.red/img/chat/404.webp" height="20" width="28" style="border: 1px solid white;"> Conectate al Chat</h2>
+</div>
+<div class="panel-body" style="padding:25px; background-color:#F5F5F5;">
+<form action="/webchat/FlashChat.php" method="get">
+<div class="input-group">
+<span class="input-group-addon"><i class="fa fa-user"></i></span>
+<input type="text" name="nick" class="form-control input-lg" placeholder="Escribe tu nombre o nick" value="">
+<span class="input-group-btn"><button class="btn btn-success btn-lg" type="submit"><i class="fa fa-comments"></i> Chatear</button></span>
+</div>
+<input type="hidden" name="pagina"  value="amistad">
+</form>
+</div>
+</div>
+</div></div>
+<hr>
+<div class="text-center">
+
+
+</div><hr>
+<img alt="Error 404" src="https://www.canalgratis.chatear.red/img/chat/404.webp" class="pull-left img-thumbnail" style="margin-right:15px;">
+<p style="font-size:16px"><strong>Error 404</strong><br /> Al chat que deseas ingresar por el momento no se encuentra online te invitamos a acceder a nuestro chat general y seleccionar tu sala favorita para chatear. Disculpa este mal funcionamiento buen chat.</p>
+<hr>
+<div class="row">
+<p><i class="fa fa-sitemap"></i> Salas de chat relacionadas con Error 404 :</p>
+<p><strong>No existen subsalas en esta categoria</strong></p></div>
+</div> 
+<div class="col-md-2 hidden-xs" style="border-left:1px solid #EEEEEE;">
+<div class="panel panel-default">
+<div class="panel-heading"><i class="fa fa-smile-o"></i> Amistad</div>
+<div class="list-group">
+<a href="https://www.canalgratis.chatear.red/chat/amigos.php" title="Chat de Amigos" class="list-group-item"><i class="fa fa-slack"></i> Amigos</a>
+<a href="https://www.canalgratis.chatear.red/chat/amor.php" title="Chat de Amor" class="list-group-item"><i class="fa fa-slack"></i> Amor</a>
+<a href="https://www.canalgratis.chatear.red/chat/ligar.php" title="Chat de Ligar" class="list-group-item"><i class="fa fa-slack"></i> Ligar</a>
+</div>
+<div class="panel-heading"><i class="fa fa-heart fa-fw"></i> Contactos</div>
+<div class="list-group">
+<a href="https://www.canalgratis.chatear.red/chat/nudismo.php" title="Chat de Nudismo" class="list-group-item"><i class="fa fa-slack"></i> Nudismo</a>
+<a href="https://www.canalgratis.chatear.red/chat/parejas.php" title="Chat de Parejas" class="list-group-item"><i class="fa fa-slack"></i> Parejas</a>
+<a href="https://www.canalgratis.chatear.red/chat/relaciones.php" title="Chat de Relaciones" class="list-group-item"><i class="fa fa-slack"></i> Relaciones</a>
+</div>
+<div class="panel-heading"><i class="fa fa-male fa-fw"></i> Edades</div>
+<div class="list-group">
+<a href="https://www.canalgratis.chatear.red/chat/de-18-a-25.php" title="Chat de De 18 a 25" class="list-group-item"><i class="fa fa-slack"></i> De 18 a 25</a>
+<a href="https://www.canalgratis.chatear.red/chat/mas-de-30.php" title="Chat de Mas de 30" class="list-group-item"><i class="fa fa-slack"></i> Mas de 30</a>
+<a href="https://www.canalgratis.chatear.red/chat/mas-de-50.php" title="Chat de Mas de 50" class="list-group-item"><i class="fa fa-slack"></i> Mas de 50</a>
+</div>
+<div class="panel-heading"><span class="glyphicon glyphicon-globe"></span> Paises</div>
+<div class="list-group">
+<a href="https://www.canalgratis.chatear.red/chat/colombia.php" title="Chat de Colombia" class="list-group-item"><i class="fa fa-slack"></i> Colombia</a>
+<a href="https://www.canalgratis.chatear.red/chat/mexico.php" title="Chat de Mexico" class="list-group-item"><i class="fa fa-slack"></i> Mexico</a>
+<a href="https://www.canalgratis.chatear.red/chat/peru.php" title="Chat de Peru" class="list-group-item"><i class="fa fa-slack"></i> Peru</a>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+ <div id="footer">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div class="col-md-6">
+<p>&copy; 2022 canalgratis.chatear.red</p> 
+</div>
+<div class="col-md-6">
+<p class="text-muted pull-right">
+<a href="https://www.canalgratis.chatear.red/aviso-legal.php"><i class="fa fa-gavel"></i> Aviso legal </a> /
+<a href="https://www.canalgratis.chatear.red/ayuda.php"><i class="fa fa-search" aria-hidden="true"></i> Ayuda </a> /
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#99;&#97;&#110;&#97;&#108;&#99;&#104;&#97;&#116;&#46;&#110;&#101;&#116;"><i class="fa fa-envelope-o"></i> Contacta</a>  /
+<a href="https://www.facebook.com/pages/ChatyGratisnet/1684381991789328"><i class="fa fa-facebook-square"></i> Hazte fan</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>
